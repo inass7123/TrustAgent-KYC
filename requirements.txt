@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+paddleocr
+opencv-python
+langgraph
+torch
+torchvision
+psycopg2-binary
